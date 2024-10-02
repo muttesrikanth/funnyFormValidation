@@ -78,4 +78,9 @@ label{
         padding: 20px 5px;
         width: 300px;
     }
+    .button{
+        width: 80px;
+        font-size: 10px;
+        padding: 7px 4px;
+    }
 }
