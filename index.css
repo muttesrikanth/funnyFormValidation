@@ -45,7 +45,7 @@ label{
 .button{
     width: 80px;
     font-size: 10px;
-    padding: 7px 0;
+    padding: 7px 4px;
 }
 .hoverButton:hover{
     background-color: rgb(80, 97, 245);
