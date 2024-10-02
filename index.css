@@ -43,7 +43,7 @@ label{
     justify-content: end;
 }
 .button{
-    width: 7vw;
+    width: 80px;
     font-size: 10px;
     padding: 7px 0;
 }
@@ -68,4 +68,14 @@ label{
 }
 .welcome_headding:hover::after{
     transform: scale(1);
+}
+
+@media screen and (max-width: 600px) {
+    .innerDiv{
+        width: 300px;
+    }
+    .welcome{
+        padding: 20px 5px;
+        width: 300px;
+    }
 }
